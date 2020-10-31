@@ -1,6 +1,6 @@
 _English_
 
-# Node.js concepts
+# Node.JS Concepts
 
 🚀 About the challenge
 
@@ -15,7 +15,7 @@ The application should store repositories and also allow the creation, listing, 
 
 _Português_
 
-# Conceitos do Node.js
+# Conceitos do Node.JS
 
 🚀 Sobre o desafio
 
